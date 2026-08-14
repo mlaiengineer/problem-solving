@@ -25,18 +25,4 @@ space_jam("freeCodeCamp")
 We loop through the string once, so the time grows linearly with the input size.
 
 **Space Complexity: O(n)**
-We build a new string to store the result, which grows with the input size.
-
-```
-```
-**Approach**
-1. Remove leading and trailing spaces and convert the string to uppercase.
-2. Iterate through each character in the string.
-3. Skip spaces and append each character followed by two spaces.
-4. Remove the extra trailing spaces before returning the result.
-
-**Complexity**
-`Time Complexity: O(n)`
- We iterate through the string once, so the runtime grows linearly with input size.
-
-`Space Complexity: O(n)` We build a new string to store the result, which grows with the input size.
+We build a new string to store the result, which growith the input size.s w
