@@ -4,7 +4,7 @@
 
 Given the base and minimum area of a triangle, find the **smallest integer height** that produces an area of at least the given value.
 
-Source: [HackerRank — Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem?isFullScreen=true&utm_source=chatgpt.com)
+Source: https://www.hackerrank.com/challenges/lowest-triangle/problem?isFullScreen=true
 
 ## My Approach
 
